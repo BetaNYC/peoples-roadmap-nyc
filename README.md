@@ -1,7 +1,9 @@
 http://NYCroadmap.us
 ===================
 
-This is the People's Roadmap to a Digital New York City landing page. For the past year, the BetaNYC community has met and worked on this document to properly frame how technology should be build. 
+This is the People's Roadmap to a Digital New York City landing page. For the past year, the BetaNYC community has met and worked on this document to properly frame how technology should be build. You can comment on this document via (google doc)[https://docs.google.com/document/d/1_hN-syKJPIfPicXfuhIlcf55SrbwJLM0rTkLrmx-Be4/edit?usp=sharing].
+
+If you find issues with the code or language, please file an issue.
 
 Note that branch `gh-pages` is what shows on production http://NYCroadmap.us. Master does nothing.
 
